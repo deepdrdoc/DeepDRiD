@@ -42,3 +42,7 @@
 
 * In sub-challenge 1&2, the labelled training dataset is given by `regular-fundus-training`, and the details of the label are shown in the `Readme.docx` file. The labelled validation dataset is given by `regular-fundus-validation`, the structure is the same as the training fold. Also, we gave our external dataset in `Online-Challenge1&2-Evaluation` which is unlabeled.
 * In sub-challenge 3, we gave the ultra-wide fundus images for transfer learning. The structure of ultra-wide fundus images is the same as regular fundus images.
+
+
+****************************UPDATE: April 7th***************************************
+We provide the source of each image in regular fundus. All regular fundus are in three studies: Niching Diabetes Screening Project\Shanghai Diabetic Complication Screening Project\Nationwide Screening for Complications of Diabetes. In the added file, we used "Nicheng" to represent Niching Diabetes Screening Project, "Shanghai" to represent Shanghai Diabetic Complication Screening Project, and "Nation" to represent Nationwide Screening for Complications of Diabetes.
