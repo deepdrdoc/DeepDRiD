@@ -46,3 +46,19 @@
 
 ****************************UPDATE: April 7th***************************************
 We provide the source of each image in regular fundus. All regular fundus are in three studies: Niching Diabetes Screening Project\Shanghai Diabetic Complication Screening Project\Nationwide Screening for Complications of Diabetes. In the added file, we used "Nicheng" to represent Niching Diabetes Screening Project, "Shanghai" to represent Shanghai Diabetic Complication Screening Project, and "Nation" to represent Nationwide Screening for Complications of Diabetes.
+
+# Citation
+If you use this dataset for your research, please cite our paper:
+```bib
+@article{LIU2022100512,
+title = {DeepDRiD: Diabetic Retinopathy—Grading and Image Quality Estimation Challenge},
+journal = {Patterns},
+pages = {100512},
+year = {2022},
+issn = {2666-3899},
+doi = {https://doi.org/10.1016/j.patter.2022.100512},
+url = {https://www.sciencedirect.com/science/article/pii/S2666389922001040},
+author = {Ruhan Liu and Xiangning Wang and Qiang Wu and Ling Dai and Xi Fang and Tao Yan and Jaemin Son and Shiqi Tang and Jiang Li and Zijian Gao and Adrian Galdran and J.M. Poorneshwaran and Hao Liu and Jie Wang and Yerui Chen and Prasanna Porwal and Gavin Siew {Wei Tan} and Xiaokang Yang and Chao Dai and Haitao Song and Mingang Chen and Huating Li and Weiping Jia and Dinggang Shen and Bin Sheng and Ping Zhang},
+keywords = {diabetic retinopathy, screening, deep learning, artificial intelligence, challenge, retinal image, image quality analysis, ultra-widefield, fundus image},
+}
+```
