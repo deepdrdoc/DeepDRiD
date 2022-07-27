@@ -32,6 +32,8 @@ keywords = {diabetic retinopathy, screening, deep learning, artificial intellige
 │   ├── Online-Challenge1&2-Evaluation
 │   │   ├── Challenge1_upload.csv
 │   │   ├── Challenge2_upload.csv
+│   │   ├── Challenge1_labels.xlsx
+│   │   ├── Challenge1_labels.xlsx
 │   │   ├── Images
 │   │   └── Readme.docx
 │   ├── regular-fundus-training
@@ -45,6 +47,7 @@ keywords = {diabetic retinopathy, screening, deep learning, artificial intellige
 └── ultra-widefield_images
     ├── Online-Challenge3-Evaluation
     │   ├── Challenge3_upload.csv
+    │   ├── Challenge3_labels.xlsx
     │   ├── Images
     │   └── Readme.docx
     ├── ultra-widefield-training
@@ -64,3 +67,5 @@ keywords = {diabetic retinopathy, screening, deep learning, artificial intellige
 ****************************UPDATE: April 7th***************************************
 We provide the source of each image in regular fundus. All regular fundus are in three studies: Niching Diabetes Screening Project\Shanghai Diabetic Complication Screening Project\Nationwide Screening for Complications of Diabetes. In the added file, we used "Nicheng" to represent Niching Diabetes Screening Project, "Shanghai" to represent Shanghai Diabetic Complication Screening Project, and "Nation" to represent Nationwide Screening for Complications of Diabetes.
 
+****************************UPDATE: July 27th***************************************
+We provide the doctor annotations for the online validation dataset in sub-challenge 1 to 3. The label files are in our fold path.
